@@ -1,0 +1,9 @@
+
+Django
+google-genai
+python-dotenv
+
+These packages are required for  AI chatbot:
+- Django — backend and web application.
+- google-genai — connects your Python application to Gemini 2.5 Flash.
+- python-dotenv — loads your Gemini API key from the .env file.
